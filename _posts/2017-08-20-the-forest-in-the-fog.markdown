@@ -16,7 +16,7 @@ On the flip side, the story also follows the life of Jijingi, a young boy living
 for what in your language is called ‘true.’ There is what’s right, mimi, and what’s precise,
 vough.” Remem simply records what is precise, but there is a discrepancy between what we feel to be right, and what has actually occurred. 
 
-Technology cannot be relied upon to solve this issue. Whether is be recorded memory through video or through the written word, differing perspectives will always come to slightly different conclusions. These tools can be used to help bring us to a place of mutual understanding of our divergent viewpoints, but it cannot be relied upon to bring us into each others contexts. Until we are able to fully emerge ourselves into the mind of another, we will simply have to keep poking and prodding and reaching, getting as close as we can to some kind of collective interpretation of reality.
+Technology cannot be relied upon to solve this issue. Whether it be recorded memory through video or through the written word, differing perspectives will always come to slightly different conclusions. These tools can be used to help bring us to a place of mutual understanding of our divergent viewpoints, but it cannot be relied upon to bring us into each others' contexts. Until we are able to fully emerge ourselves into the mind of another, we will simply have to keep poking and prodding and reaching, getting as close as we can to some kind of collective interpretation of reality.
 	
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
