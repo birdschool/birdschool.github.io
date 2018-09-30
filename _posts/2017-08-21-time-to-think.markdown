@@ -3,7 +3,7 @@ layout: post
 title: World Wide Web - Ergodic Edition
 date: 2018-09-29 14:47:20 +0300
 description:  # Add post description (optional)
-img: post-5.jpg # Add image post (optional)
+img: IMG_5557.jpg # Add image post (optional)
 tags: [Blog]
 author: # Add name author (optional)
 ---
