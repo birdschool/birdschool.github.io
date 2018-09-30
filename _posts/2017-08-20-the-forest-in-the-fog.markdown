@@ -3,7 +3,7 @@ layout: post
 title: The Truth of Fact, the Truth of Feeling
 date: 2018-09-29 12:37:20 +0300
 description:  # Add post description (optional)
-img: post-6.jpg # Add image post (optional)
+img: IMG_4146.jpg # Add image post (optional)
 tags: [Blog]
 author: # Add name author (optional)
 ---
