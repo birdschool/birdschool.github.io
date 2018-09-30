@@ -3,7 +3,7 @@ layout: post
 title:  No Digital Day
 date:   2018-09-29 15:06:20 +0300
 description: # Add post description (optional)
-img: post-4.jpg # Add image post (optional)
+img: IMG_1177.jpg # Add image post (optional)
 tags: [Blog]
 author: # Add name author (optional)
 ---
