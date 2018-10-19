@@ -3,7 +3,7 @@ layout: post
 title: Will the Robot be the Death of the Author?
 date:   2018-10-10 20:56:20 +0300
 description: # Add post description (optional)
-img: # Add image post (optional)
+img: Roland-Barthes-Television-degree-zero.jpg # Add image post (optional)
 tags: [Blog]
 author: # Add name author (optional)
 ---
