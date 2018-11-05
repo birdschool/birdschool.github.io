@@ -3,7 +3,7 @@ layout: post
 title:  A Quantified Life
 date:   2018-11-02 15:06:20 +0300
 description: # Add post description (optional)
-img: # Add image post (optional)
+img:tumblr_pd97443OT31s141c3o1_1280.gif # Add image post (optional)
 tags: [Blog]
 author: # Add name author (optional)
 ---
