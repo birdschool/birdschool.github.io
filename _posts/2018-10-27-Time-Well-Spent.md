@@ -3,7 +3,7 @@ layout: post
 title: Time Well Spent
 date: 2018-10-27 12:37:20 +0300
 description:  # Add post description (optional)
-img:  # Add image post (optional)
+img: tumblr_php1koggQN1rlxtnvo1_1280.gif # Add image post (optional)
 tags: [Blog]
 author: # Add name author (optional)
 ---
