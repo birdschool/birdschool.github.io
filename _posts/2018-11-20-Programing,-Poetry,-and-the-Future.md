@@ -3,7 +3,7 @@ layout: post
 title: Programing, Poetry, and the Future
 date: 2018-11-20 14:47:20 +0300
 description:  # Add post description (optional)
-img: # Add image post (optional)
+img: montfort.png # Add image post (optional)
 tags: [Blog]
 author: # Add name author (optional)
 ---
