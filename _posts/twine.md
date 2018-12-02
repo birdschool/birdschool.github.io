@@ -1,0 +1,13 @@
+---
+layout: post
+title: do we live with it if we close our eyes
+date: 2018-12-02 14:47:20 +0300
+description:  # Add post description (optional)
+img:  # Add image post (optional)
+tags: [Blog]
+author: # Add name author (optional)
+---
+
+
+
+[do we live with it if we close our eyes](file:///Users/emmafarman/Downloads/Do%20we%20live%20with%20it%20if%20we%20close%20our%20eyes_.html)
